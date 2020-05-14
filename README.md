@@ -1,1 +1,1 @@
-# passwall
+# Django project
